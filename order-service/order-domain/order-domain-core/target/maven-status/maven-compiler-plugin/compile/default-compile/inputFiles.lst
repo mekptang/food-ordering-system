@@ -1,0 +1,6 @@
+/Users/tkp/Documents/Projects/food-ordering-system/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/StreetAddress.java
+/Users/tkp/Documents/Projects/food-ordering-system/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/OrderItemId.java
+/Users/tkp/Documents/Projects/food-ordering-system/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/valueobject/TrackingId.java
+/Users/tkp/Documents/Projects/food-ordering-system/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/OrderItem.java
+/Users/tkp/Documents/Projects/food-ordering-system/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Product.java
+/Users/tkp/Documents/Projects/food-ordering-system/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/com/food/ordering/system/order/service/domain/entity/Order.java
